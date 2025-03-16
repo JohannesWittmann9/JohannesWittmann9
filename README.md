@@ -1,6 +1,6 @@
 ## Hi there 👋
 
---- Work in progress ---
+You can reach me via mail johannes.wittmann@campus.lmu.de
 
 <!--
 **JohannesWittmann9/JohannesWittmann9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
